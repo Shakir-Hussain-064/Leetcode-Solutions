@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [1518-water-bottles](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

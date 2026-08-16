@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

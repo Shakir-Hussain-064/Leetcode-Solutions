@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Simulation
 |  |

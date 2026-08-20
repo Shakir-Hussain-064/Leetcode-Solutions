@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |

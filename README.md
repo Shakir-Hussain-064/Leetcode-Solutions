@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |

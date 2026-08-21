@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Quicksort
 |  |

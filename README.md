@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |

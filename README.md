@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

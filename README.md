@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/1518-water-bottles) |
+| [2235-add-two-integers](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [3516-find-closest-person](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shakir-Hussain-064/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
